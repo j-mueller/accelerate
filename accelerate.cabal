@@ -137,15 +137,6 @@ extra-source-files:
     CHANGELOG.md
     cbits/*.c
     cbits/*.h
-    cbits/tracy/*.h
-    cbits/tracy/*.hpp
-    cbits/tracy/*.cpp
-    cbits/tracy/common/*.h
-    cbits/tracy/common/*.hpp
-    cbits/tracy/common/*.cpp
-    cbits/tracy/client/*.h
-    cbits/tracy/client/*.hpp
-    cbits/tracy/client/*.cpp
 
 extra-doc-files:
     images/*.png
